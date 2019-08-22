@@ -1,6 +1,6 @@
 # rate-react
 
-Projeto ReactJs com MaterializeCss
+Projeto ReactJs com Material Design Lite
 
 ## Pré requisito
 - Nodejs 10
